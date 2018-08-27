@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "completed": false,
+      "title": "Go sleep very very long timeee 💤😴"
+    },
+    {
+      "id": 2,
+      "completed": true,
+      "title": "Survive until weekeng"
+    },
+    {
+      "id": 3,
+      "completed": false,
+      "title": "Finish this app"
+    },
+    {
+      "id": 4,
+      "completed": false,
+      "title": "Buy food!! Freezer is empty!!  🌭🍔"
+    }
+  ]
+}
